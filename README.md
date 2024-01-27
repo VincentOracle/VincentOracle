@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Were Vincent</h1>
-<h3 align="center">I’m interested in Data Science and Web-based technologies that is I'm not only an enthusiastic but a dedicated and passionate individual with a profound interest in the realms of Data Science Technologies, DevOps practices, Git and GitHub workflows, AWS cloud services, containerization with Docker and Kubernetes, and proficiency in both JavaScript and Python Technologies.</h3>
+<h3 align="center">I’m interested in Data Science and Web-based technologies and not only an enthusiastic but also a dedicated and passionate individual with a profound interest in the realms of Data Science, DevOps practices, Git and GitHub workflows, AWS cloud services, containerization with Docker and Kubernetes, and proficiency in both JavaScript and Python Technologies.</h3>
 
 <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Me">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/vincentoracle" target="blank"><img src="https://img.shields.io/twitter/follow/vincentoracle?logo=twitter&style=for-the-badge" alt="vincentoracle" /></a> </p>
 
-- 🔭 I’m currently learning and working on [learning Data Science and Machine Learning](https://portfolio-vincent-mocha.vercel.app/)
+- 🔭 I’m currently learning and working on [Data Science and Machine Learning projects](https://portfolio-vincent-mocha.vercel.app/)
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
