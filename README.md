@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Were Vincent</h1>
 <h3 align="center">I’m interested in Data Science and Web-based technologies and not only an enthusiastic but also a dedicated and passionate individual with a profound interest in the realms of Data Science, DevOps practices, Git and GitHub workflows, AWS cloud services, containerization with Docker and Kubernetes, and proficiency in both JavaScript and Python Technologies.</h3>
 
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Me">
+<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Me" height="100px" width="175px" justify-content:center padding-left:100px> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentoracle&label=Profile%20views&color=0e75b6&style=flat" alt="vincentoracle" /> </p>
 
