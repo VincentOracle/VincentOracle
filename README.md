@@ -1,5 +1,31 @@
 <h1 align="center">Hi 👋, I'm Were Vincent</h1>
-<h3 align="center">I’m interested in Data Science and Web-based technologies and not only an enthusiastic but also a dedicated and passionate individual with a profound interest in the realms of Data Science, DevOps practices, Git and GitHub workflows, AWS cloud services, containerization with Docker and Kubernetes, and proficiency in both JavaScript and Python Technologies.</h3>
+<h3 align="center">I’m a passionate Data Scientist and Web Technologies enthusiast dedicated to solving real-world problems through the power of data and code. With a strong foundation in Data Science, DevOps practices, and cloud-native technologies, I build scalable, intelligent, and impactful solutions.
+
+
+
+
+**🔧 What I Work With:**
+
+💻 Programming: Python | JavaScript | SQL
+
+☁️ Cloud: AWS (EC2, S3, SageMaker, Elastic Beanstalk)
+
+🐳 DevOps: Docker | Kubernetes | Git | GitHub CI/CD
+
+📊 Data: Pandas | NumPy | Scikit-learn | Jupyter | STATA
+
+🌐 Web: HTML/CSS | Streamlit | Firebase | PostgreSQL
+
+
+**🚀 I'm especially passionate about:**
+
+Building data-driven web applications
+
+Designing machine learning models for meaningful insights
+
+Advocating for clean code, collaboration, and open-source contribution
+
+Exploring how AI, cloud, and DevOps intersect for modern software delivery</h3>
 
 <img src="https://camo.githubusercontent.com/cfc09edfaea8a8862a7b049e65d4d3b8c3716c35bcf23af20735f8f3ea5db1c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5666335a4b64696c6c544d4f4f614f686f302f67697068792e676966" alt="Me" padding-left:200px> 
 
