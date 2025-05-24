@@ -47,9 +47,9 @@ Exploring how AI, cloud, and DevOps intersect for modern software delivery</h3>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/were-vincent-a097a4220/](https://www.linkedin.com/in/were-vincent-a097a4220/)
 
-- 💬 Ask me about **Python,SQL,Tensorflow,Tenserflow,Tableau,KerasGoogle Colab,Sk Learn Kit,Excel,**
+- 💬 Ask me about **Python,SQL,Tensorflow,Tensorflow,Tableau,Keras, Google Colab,SciKit-Learn ,Excel, SPSS**
 
-- 📫 How to reach me **oumawere2001@gmail.com or by LinkedIn ID "https://www.linkedin.com/in/were-vincent-a097a4220"**
+- 📫 How to reach me **oumawere2001@gmail.com or by LinkedIn: "https://www.linkedin.com/in/were-vincent-a097a4220"**
 
 - 📄 Know about my experiences [https://portfolio-vincent-mocha.vercel.app/](https://portfolio-vincent-mocha.vercel.app/)
 
