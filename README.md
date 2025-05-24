@@ -27,7 +27,7 @@ Advocating for clean code, collaboration, and open-source contribution
 
 Exploring how AI, cloud, and DevOps intersect for modern software delivery</h3>
 
-<img src="https://camo.githubusercontent.com/cfc09edfaea8a8862a7b049e65d4d3b8c3716c35bcf23af20735f8f3ea5db1c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5666335a4b64696c6c544d4f4f614f686f302f67697068792e676966" alt="Me" padding-left:200px> 
+<img src="https://camo.githubusercontent.com/cfc09edfaea8a8862a7b049e65d4d3b8c3716c35bcf23af20735f8f3ea5db1c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5666335a4b64696c6c544d4f4f614f686f302f67697068792e676966" alt="Me"  padding-left:1900px> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentoracle&label=Profile%20views&color=0e75b6&style=flat" alt="vincentoracle" /> </p>
 
