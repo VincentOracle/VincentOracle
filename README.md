@@ -4,7 +4,7 @@
 
 
 
-**🔧 What I Work With:**
+*-🔧 What I Work With:-*
 
 💻 Programming: Python | JavaScript | SQL
 
@@ -17,7 +17,7 @@
 🌐 Web: HTML/CSS | Streamlit | Firebase | PostgreSQL
 
 
-**🚀 I'm especially passionate about:**
+*🚀 I'm especially passionate about:*
 
 Building data-driven web applications
 
