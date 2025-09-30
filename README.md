@@ -65,8 +65,25 @@ I specialize in transforming raw data into intelligent, impactful solutions that
 </p>
 
 ---
-### 💡 Quote
-<p align="center"><i>"The best way to predict the future is to invent it."</i> — Alan Kay</p>
+
+### 📌 Pinned Projects
+<p align="center">
+  <a href="https://github.com/VincentOracle/GunduziAI-AI-DRIVEN-PLANT-DISEASE-DETECTION-SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentOracle&repo=GunduziAI-AI-DRIVEN-PLANT-DISEASE-DETECTION-SYSTEM&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/VincentOracle/Pest-Identification-Android-App-Using-Deep-Learning-Algorithms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentOracle&repo=Pest-Identification-Android-App-Using-Deep-Learning-Algorithms&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VincentOracle/Movie-recommendation-System-with-Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentOracle&repo=Movie-recommendation-System-with-Machine-Learning&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/VincentOracle/Bidirectional-Association-Between-Systemic-Cardiovascular-Diseases-and-Glaucoma-Progression">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentOracle&repo=Bidirectional-Association-Between-Systemic-Cardiovascular-Diseases-and-Glaucoma-Progression&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -86,5 +103,7 @@ I specialize in transforming raw data into intelligent, impactful solutions that
 
 ---
 
-### ⚡ Fun Fact
-<p align="center">I am creative, love problem-solving, and passionate about using data & AI to create impactful solutions.</p>
+### 💡 Motivational Quote
+<p align="center"><i>"Data is not just numbers; it’s the story of the world in digital form. The real power of a Data Scientist lies not in building models, but in transforming complexity into clarity, uncertainty into insight, and information into meaningful action that shapes the future."</i> — Inspired by the Data Science Journey</p>
+
+---
