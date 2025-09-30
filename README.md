@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Were Vincent Ouma</h1>
+<h1 align="center">Hi 👋, I'm Were Vincent</h1>
 <h3 align="center">Data Scientist | Web Technologies Enthusiast | Cloud & DevOps Practitioner</h3>
 
 <p align="center">
