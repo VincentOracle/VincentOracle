@@ -65,6 +65,10 @@ I specialize in transforming raw data into intelligent, impactful solutions that
 </p>
 
 ---
+### 💡 Quote
+<p align="center"><i>"The best way to predict the future is to invent it."</i> — Alan Kay</p>
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
