@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Were Vincent</h1>
-<h3 align="center">Data Scientist | Web Technologies Enthusiast | Cloud & DevOps Practitioner</h3>
+<h3 align="center">Data Scientist | AI Researcher | Web App Enthusiast | Cloud & DevOps Practitioner</h3>
 
 <p align="center">
 I’m a highly motivated and results-driven Data Scientist with a strong foundation in Computer Science, Cloud Computing, Data Engineering, and Agile project delivery.  
